@@ -20,6 +20,8 @@
   </a>
 </p>
 
+Forked for My Mod
+
 This repository is used in order to store the various JSON files used for the Minecraft mod [NotEnoughUpdates](https://github.com/Moulberry/NotEnoughUpdates).
 
 <h2 align="center"> How to contribute </h2>
